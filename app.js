@@ -1681,6 +1681,31 @@
 // }
 
 
+// IMAGES TASK
+// TASK # 01
+// var img=document.createElement("img");
+// img.className="big";
+// function foo(a){
+// var c=document.getElementById(a).src;
+// img.src=c;
+// var big=document.getElementById("big");
+// big.appendChild(img);
+// document.body.style.backgroundColor="grey";
+// document.getElementById("opacity").style.opacity=".5";
+// }
+
+
+// TASK # 02
+// Task  : 2.
+// var fontSize = 1;
+// function zoomIn() {
+// fontSize += 0.625;
+// document.getElementById('p').style.fontSize = fontSize + "em";
+// }
+// function zoomOut() {
+// fontSize -= 0.625;
+// document.getElementById('p').style.fontSize = fontSize + "em";
+// }
 
 
 
